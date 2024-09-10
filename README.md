@@ -12,32 +12,13 @@ Welcome to **ExamEssentials**, your trusted source for certification exam materi
 
 ---
 
-## 🔥 Get Your Free Sample PDF!
+## 🔥 Get Your Free Sample PDF!, With 100% Assurance.
 
-We’re confident in our materials, and we want you to try them before you buy. Get a free sample PDF today via:
+For any inquiries or to request your free PDF, feel free to reach out via the following channels:
 
-<p align="center">
-  <a href="https://wa.me/YOURNUMBERHERE?text=Hi%2C%20I%20need%20PDF%20for%20Exam" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
-    <span style="background-color: #25D366; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">WhatsApp Us</span>
-  </a>
-  
-  <a href="https://t.me/YOURTELEGRAMUSERNAME" style="text-decoration: none; margin-left: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
-    <span style="background-color: #0088cc; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Telegram Us</span>
-  </a>
-
-  <a href="mailto:essentialsexam@gmail.com?subject=Requesting%20Free%20Copy%20of%20Exam%20Material&body=Hi%2C%20I%20need%20a%20free%20PDF%20copy%20of%20the%20exam." style="text-decoration: none; margin-left: 15px;">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="email" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
-      <path fill="#007bff" d="M53.42 52.82H10.58a8 8 0 0 1-8-8V19.18a8 8 0 0 1 8-8h42.84a8 8 0 0 1 8 8v25.64a8 8 0 0 1-8 8ZM10.58 13.18a6 6 0 0 0-6 6v25.64a6 6 0 0 0 6 6h42.84a6 6 0 0 0 6-6V19.18a6 6 0 0 0-6-6Z"></path>
-      <path fill="#007bff" d="M32 37.58A8 8 0 0 1 27.18 36L3.82 18.31A1 1 0 1 1 5 16.72l23.38 17.65a6 6 0 0 0 7.24 0L59 16.72a1 1 0 1 1 1.21 1.59L36.82 36A8 8 0 0 1 32 37.58Z"></path>
-      <path fill="#007bff" d="M4.17 48.64a1 1 0 0 1-.66-1.74L21.9 30.49A1 1 0 0 1 23.23 32L4.84 48.39a1 1 0 0 1-.67.25zm55.66 0a1 1 0 0 1-.67-.25L40.77 32a1 1 0 1 1 1.33-1.49L60.49 46.9a1 1 0 0 1 .08 1.41 1 1 0 0 1-.74.33z"></path>
-    </svg>
-    <span style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Email Us</span>
-  </a>
-</p>
-
-
+- **Email**: [essentialsexam@gmail.com](mailto:essentialsexam@gmail.com?subject=Requesting%20Free%20Copy%20of%20Exam%20Material&body=Hi%2C%20I%20need%20a%20free%20PDF%20copy%20of%20the%20exam.)
+- **Telegram**: [@XXXX](https://t.me/XXXX)
+- **WhatsApp**: [Click here to message us](https://wa.me/XXXXXXXXXX?text=Hi%2C%20I%20need%20a%20free%20copy%20of%20the%20exam.)
 
 ---
 
