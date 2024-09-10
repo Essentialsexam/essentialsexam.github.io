@@ -16,9 +16,10 @@ Welcome to **ExamEssentials**, your trusted source for certification exam materi
 
 We’re confident in our materials, and we want you to try them before you buy. Get a free sample PDF today via:
 
-[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/YOURNUMBERHERE?text=Hi%2C%20I%20need%20PDF%20for%20Exam) 
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/YOURTELEGRAMUSERNAME) 
-[![Email](https://upload.wikimedia.org/wikipedia/commons/d/df/Font_Awesome_5_solid_envelope.svg)](mailto:essentialsexam@gmail.com?subject=Requesting%20Free%20Copy%20of%20Exam%20Material&body=Hi%2C%20I%20need%20a%20free%20PDF%20copy%20of%20the%20exam.)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" height="30">](https://wa.me/YOURNUMBERHERE?text=Hi%2C%20I%20need%20PDF%20for%20Exam) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="30">](https://t.me/YOURTELEGRAMUSERNAME) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Font_Awesome_5_solid_envelope.svg" width="30" height="30">](mailto:essentialsexam@gmail.com?subject=Requesting%20Free%20Copy%20of%20Exam%20Material&body=Hi%2C%20I%20need%20a%20free%20PDF%20copy%20of%20the%20exam.)
+
 
 ---
 
